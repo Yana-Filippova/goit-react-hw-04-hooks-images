@@ -1,15 +1,3 @@
-## Виджет отзывов
-
-- Создан репозиторий `goit-react-hw-04-hooks-feedback`.
-- Проведи рефакторинг кода задания
-  [Виджет отзывов](../homework-02/feedback/README.md) используя React-хуки.
-
-## Книга контактов
-
-- Создан репозиторий `goit-react-hw-04-hooks-phonebook`.
-- Проведи рефакторинг кода задания
-  [Книга контактов](../homework-03/phonebook/README.md) используя React-хуки.
-
 ## Поиск изображений
 
 - Создан репозиторий `goit-react-hw-04-hooks-images`.
